@@ -1,0 +1,150 @@
+body{
+    background-color: #FFF!important;
+}
+.jrh-middle{
+    width: 1170px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+.wel-title{
+    line-height: 1.7em;
+}
+.wel-title > p:first-child > span:first-child{
+    font-size: 20px;
+    color: #E59C00;
+}
+.wel-title > p:first-child > span:nth-of-type(2){
+    font-size: 13px;
+    margin-left: 20px;
+}
+.wel-title > p:nth-of-type(2){
+    font-size: 14px;
+}
+.service-module{
+    margin-top: 50px;
+
+}
+.service-module > div:first-child{
+    width: 549px;
+    height: 389px;
+    background-color: #E4E4E4;
+    float: left;
+    text-align: center;
+    position: relative;
+}
+.service-module > div:nth-of-type(2){
+    width: 452px;
+    height: 389px;
+    float: left;
+    margin-left: 10px;
+
+}
+.service-module > div:nth-of-type(3){
+    width: 149px;
+    height: 389px;
+    background-color: #F5F5F5;
+    float: left;
+    margin-left: 10px;
+
+}
+.service-module > div:nth-of-type(2) > div{
+    width: 100%;
+    height: 123px;
+    background-color: #F5F5F5;
+}
+.service-module > div:nth-of-type(2) > div + div{
+    margin-top: 10px;
+}
+
+.service-module > div:first-child > div:first-child{
+    margin-top: 58px;
+}
+.service-module > div:first-child > div:nth-of-type(2){
+    font-size: 21px;
+    margin-top: 8px;
+}
+.service-module > div:first-child > div:nth-of-type(3){
+    font-size: 16px;
+    position: relative;
+    letter-spacing: 2px;
+    width:60px;
+    margin:0 auto;
+    margin-top: 20px;
+}
+.service-module > div:first-child > div:nth-of-type(3) ~ div{
+    font-size: 16px;
+    position: relative;
+    letter-spacing: 2px;
+    width:100px;
+    margin:0 auto;
+    margin-top: 15px;
+}
+.order-amount{
+    position: absolute;
+    right: -7px;
+    top:-3px;
+    font-size: 12px;
+    color: red;
+}
+.tgpic{
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+}
+.service-module > div:nth-of-type(2) > div:first-child,
+.service-module > div:nth-of-type(2) > div:nth-of-type(2),
+.service-module > div:nth-of-type(2) > div:nth-of-type(3)
+{
+    padding-top: 1px;
+    position: relative;
+}
+
+
+.service-module > div:nth-of-type(2) > div:first-child > div:first-child,
+.service-module > div:nth-of-type(2) > div:nth-of-type(2) > div:first-child,
+.service-module > div:nth-of-type(2) > div:nth-of-type(3) > div:first-child
+{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 20px 0 0 50px;
+    float: left;
+}
+.service-module > div:nth-of-type(2) > div:first-child > div:first-child > p,
+.service-module > div:nth-of-type(2) > div:nth-of-type(2) > div:first-child p,
+.service-module > div:nth-of-type(2) > div:nth-of-type(3) > div:first-child p
+{
+    font-size: 20px;
+    margin-top: 8px;
+}
+
+.service-module > div:nth-of-type(2) > div:first-child > div:nth-of-type(2),
+.service-module > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2),
+.service-module > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(2)
+{
+    width: 100px;
+    height: auto;
+    text-align: center;
+    margin: 50px 0 0 150px;
+    float: left;
+    line-height: 0.7em;
+}
+.service-module > div:nth-of-type(3) > div:first-child{
+    width: 20px;
+    height: auto;
+    overflow: hidden;
+    margin: 0 auto;
+    font-size: 18px;
+    margin-top: 110px;
+}
+.jrh-clause {
+    width: 100%;
+    height: auto;
+    clear: both;
+    padding-top: 60px;
+}
+.jrh-clause > p:first-child{
+    font-size: 16px;
+}
